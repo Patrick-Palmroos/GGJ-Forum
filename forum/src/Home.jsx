@@ -1,9 +1,11 @@
 import home from "./json/home.json";
 import { Link } from "react-router-dom";
+import TopBar from "./TopBar";
 
 export default function Home() {
     return (
         <div>
+            <TopBar />
             <h1>Home</h1>
             <ul>
                 {home.posts.map((post) => (
