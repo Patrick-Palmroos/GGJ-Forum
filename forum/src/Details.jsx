@@ -1,4 +1,5 @@
 import { useLocation } from "react-router-dom";
+import TopBar from "./TopBar";
 
 export default function Details() {
     const location = useLocation();
@@ -10,6 +11,7 @@ export default function Details() {
 
     return (
         <div>
+            <TopBar />
             <div>
                 <h1>{post.title}</h1>
                 <p>{post.name}</p>
