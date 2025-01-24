@@ -1,10 +1,13 @@
-import PropTypes from "prop-types";
+import { useLocation } from "react-router-dom";
 
-Details.propTypes = {
-    post: PropTypes.object,
-};
+export default function Details() {
+    const location = useLocation();
+    const { post } = location.state || {};
 
-export default function Details({ post }) {
+    if (!post) {
+        return <p>404. No post found</p>;
+    }
+
     return (
         <div>
             <h1>{post.title}</h1>

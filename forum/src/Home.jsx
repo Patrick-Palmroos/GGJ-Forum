@@ -8,7 +8,9 @@ export default function Home() {
             <ul>
                 {home.posts.map((post) => (
                     <li key={post.id}>
-                        <Link to="/">{post.title}</Link>
+                        <Link to={`/details`} state={{ post }}>
+                            {post.title}
+                        </Link>
                         <p>
                             julkaisija: {post.name} pvm: {post.date}
                         </p>
