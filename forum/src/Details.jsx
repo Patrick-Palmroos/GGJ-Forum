@@ -10,8 +10,24 @@ export default function Details() {
 
     return (
         <div>
-            <h1>{post.title}</h1>
-            <h2>{post.description}</h2>
+            <div>
+                <h1>{post.title}</h1>
+                <p>{post.name}</p>
+                <p>{post.date}</p>
+                <h2>{post.description}</h2>
+            </div>
+            <div>
+                <h2>Kommentit:</h2>
+                <ul>
+                    {post.comments.map((comment, i) => (
+                        <li key={i}>
+                            <p>{comment.name}</p>
+                            <p>{comment.date}</p>
+                            <h3>{comment.comment}</h3>
+                        </li>
+                    ))}
+                </ul>
+            </div>
         </div>
     );
 }

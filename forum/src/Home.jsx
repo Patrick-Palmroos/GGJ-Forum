@@ -8,12 +8,11 @@ export default function Home() {
             <ul>
                 {home.posts.map((post) => (
                     <li key={post.id}>
-                        <Link to={`/details`} state={{ post }}>
+                        <Link to={"/details"} state={{ post }}>
                             {post.title}
                         </Link>
-                        <p>
-                            julkaisija: {post.name} pvm: {post.date}
-                        </p>
+                        <p>julkaisija: {post.name}</p>
+                        <p>pvm: {post.date}</p>
                     </li>
                 ))}
             </ul>
