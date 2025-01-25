@@ -1,0 +1,29 @@
+:root {
+    color: rgba(0, 0, 0, 0.997);
+    background-color: #ddffb0;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    font-weight: 500;
+    color: #000dff;
+    text-decoration: inherit;
+}
+a:hover {
+    color: #888eff;
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 3.2em;
+    line-height: 1.1;
+}
