@@ -8,13 +8,11 @@ export default function Home() {
             <TopBar />
             <h1>Home</h1>
             <ul>
-                {home.sections.map((post) => (
-                    <li key={post.id}>
-                        <Link to={"/details"} state={{ post }}>
-                            {post.title}
+                {home.sections.map((section, i) => (
+                    <li key={i}>
+                        <Link to={"/section"} state={{ section }}>
+                            {section.sectionName}
                         </Link>
-                        <p>julkaisija: {post.name}</p>
-                        <p>pvm: {post.date}</p>
                     </li>
                 ))}
             </ul>
