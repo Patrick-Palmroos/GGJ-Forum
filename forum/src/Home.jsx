@@ -8,7 +8,7 @@ export default function Home() {
             <TopBar />
             <h1>Home</h1>
             <ul>
-                {home.posts.map((post) => (
+                {home.sections.map((post) => (
                     <li key={post.id}>
                         <Link to={"/details"} state={{ post }}>
                             {post.title}
