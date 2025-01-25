@@ -1,5 +1,6 @@
 import { useLocation } from "react-router-dom";
 import TopBar from "./TopBar";
+import "./posts.css";
 
 export default function Details() {
     const location = useLocation();
@@ -12,18 +13,20 @@ export default function Details() {
     return (
         <div>
             <TopBar />
-            <div>
+            <div className="postDesc">
                 <h1>{post.title}</h1>
-                <p>{post.name}</p>
-                <p>{post.date}</p>
+                <div className="details">
+                    <p>{post.name}</p>
+                    <p>{post.date}</p>
+                </div>
                 <h2>{post.description}</h2>
             </div>
-            <div>
+            <div className="comments">
                 <h2>Kommentit:</h2>
                 <ul>
                     {post.comments.map((comment, i) => (
                         <li key={i}>
-                            <p>{comment.name}</p>
+                            <h4>{comment.name}</h4>
                             <p>{comment.date}</p>
                             <h3>{comment.comment}</h3>
                         </li>
