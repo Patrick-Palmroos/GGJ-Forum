@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <div className="section">
             <TopBar />
-            <h1>Home</h1>
+            <h1>Koti</h1>
             <ul>
                 {home.sections.map((section, i) => (
                     <li key={i}>

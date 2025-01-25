@@ -1,0 +1,96 @@
+.posts li {
+    margin: 2px;
+    margin-bottom: 10px;
+    background-color: rgb(193, 220, 74);
+    height: 100%;
+    width: 78%;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-top: 8px;
+}
+
+.posts > h1 {
+    padding-left: 20px;
+    font-size: 2.5rem;
+    color: rgb(33, 57, 26);
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.posts ul {
+    margin: 2px;
+}
+
+.link {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.info {
+    display: flex;
+}
+.info p {
+    font-size: 0.9rem;
+    padding-right: 40px;
+}
+
+.postDesc {
+    background-color: rgb(149, 193, 118);
+    margin-top: 1.5rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.3rem;
+}
+
+.postDesc > h1 {
+    margin-top: 1rem;
+    font-size: 2.8rem;
+    padding-left: 1rem;
+    margin-bottom: -0.2rem;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.postDesc > h2 {
+    margin-top: 0.5rem;
+    color: rgb(6, 26, 0);
+    font-size: 1.5rem;
+    padding-left: 1rem;
+}
+
+.details {
+    padding-left: 1rem;
+    display: flex;
+}
+
+.details p {
+    padding-right: 20px;
+    font-style: italic;
+}
+
+.comments {
+    margin-left: 3rem;
+}
+
+.comments li {
+    background-color: rgb(146, 208, 154);
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    list-style-type: none;
+    border-radius: 4px;
+    width: 95%;
+}
+
+.comments h4 {
+    padding-top: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.comments p {
+    margin-top: -1rem;
+}
+
+.comments h3 {
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+}
