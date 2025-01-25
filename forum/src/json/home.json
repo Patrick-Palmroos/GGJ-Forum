@@ -8,18 +8,18 @@
                     "id": 0,
                     "date": "20.5.2015",
                     "name": "Keijo Kyrvänsyrjä",
-                    "title": "pers karvat kutittaa",
-                    "description": "perseessä on paljon karvoja ja ne kutkuttaa ei kivasti! BAN PERS KARVAT",
+                    "title": "Olen vain pieni poika",
+                    "description": "I am a dwarf and im digging a hole!",
                     "comments": [
                         {
                             "name": "Mauno Mammanpoika",
                             "date": "21.5.2015",
-                            "comment": "No niinpa PERRRRKELE!!! Yhdyn jukan kanssa!"
+                            "comment": "Diggy diggy hooole!"
                         },
                         {
                             "name": "Jukka Juustoterska",
                             "date": "20.5.2015",
-                            "comment": "Siis oikein paha mieli tulee"
+                            "comment": "Diggy diggy hole!"
                         }
                     ]
                 },
@@ -27,13 +27,13 @@
                     "id": 1,
                     "date": "12.3.2015",
                     "name": "Mauno Mammanpoika",
-                    "title": "Tekeekö kerta homoksi?",
-                    "description": "Eilennä parin mehun jälkeen naapurin Jukan kanssa tuli juteltua ja asiat.. eskaloitui. Lyhyesti Jukka tuikkasi minua takapuoleen. Olenko homo?",
+                    "title": "sauna leikki (saunaklonkku)",
+                    "description": "Jouduin tänään klonkuksi. Näiltä pikku näppösiltä ei kukaan karkuun päässyt!",
                     "comments": [
                         {
                             "name": "Mauno Mammanpoika",
-                            "date": "13.3.2015",
-                            "comment": "PS. tekeekö kaksi kertaa homoksi? Vastatkaa äkkiä"
+                            "date": "12.3.2015",
+                            "comment": "Virkavallat kutsuttiin paikalle"
                         }
                     ]
                 }
@@ -41,14 +41,14 @@
         },
         {
             "isOpen": true,
-            "sectionName": "lollit",
+            "sectionName": "turhautumiset",
             "posts": [
                 {
                     "id": 2,
                     "date": "1.2.2015",
                     "name": "Jukka Juustoterska",
                     "title": "Kuuma naapuri",
-                    "escription": "Mitä tehdä kun naapuri on tosi komea.. Tunteet ovat pinnassa",
+                    "description": "Mitä tehdä kun naapuri on tosi komea.. Tunteet ovat pinnassa",
                     "comments": []
                 }
             ]

@@ -15,7 +15,28 @@
     align-items: center;
 }
 
+.section > h1 {
+    padding-left: 20px;
+    font-size: 2.5rem;
+    color: rgb(33, 57, 26);
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
 .section li > a {
     font-size: 1.4rem;
     padding: 12px;
+}
+
+.closed {
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    color: rgb(77, 87, 70);
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.closed img {
+    height: 30px;
+    padding-left: 10px;
 }

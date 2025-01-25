@@ -1,10 +1,12 @@
 import hobbies from "./json/hobbies.json";
 import { Link } from "react-router-dom";
 import TopBar from "./TopBar";
+import "./Sections.css";
+import x from "../public/cross.png";
 
 export default function Hobbies() {
     return (
-        <div>
+        <div className="section">
             <TopBar />
             <h1>Harrastukset</h1>
             <ul>
@@ -15,7 +17,11 @@ export default function Hobbies() {
                                 {section.sectionName}
                             </Link>
                         ) : (
-                            <p>{section.sectionName}</p>
+                            <div className="closed">
+                                <p>{section.sectionName}</p>
+                                <img src={x} alt="X symbol" />
+                                <p>(sinulla ei ole pääsy oikeuksia)</p>
+                            </div>
                         )}
                     </li>
                 ))}
