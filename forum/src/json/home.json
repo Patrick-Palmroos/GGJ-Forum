@@ -7,19 +7,59 @@
                 {
                     "id": 0,
                     "date": "20.5.2015",
-                    "name": "Keijo Kyrvänsyrjä",
-                    "title": "Olen vain pieni poika",
-                    "description": "I am a dwarf and im digging a hole!",
+                    "name": "Toukokettu",
+                    "title": "Suosituksia kivoista mökkiseuduista?:)",
+                    "description": "Heippa! Onkos täällä kenelläkään suositella mukavia mökkejä tai alueita mökkiä harkitsevalle? Kriteereinä olisi lapsiystävällisyys, hyvät uintimahdollisuudet ja tietenkin oma sauna! Plussaa läheiset mökkinaapurit ja yhteisöllinen tunnelma, esimerkiksi yhteinen perunamaa tai yhteisöpuutarha olisivat kiva lisä!",
                     "comments": [
                         {
-                            "name": "Mauno Mammanpoika",
-                            "date": "21.5.2015",
-                            "comment": "Diggy diggy hooole!"
+                            "name": "Jamppe",
+                            "date": "20.5.2015",
+                            "comment": "Älä ainakaa Satakunnasta hae"
                         },
                         {
-                            "name": "Jukka Juustoterska",
+                            "name": "Mirjaliini",
                             "date": "20.5.2015",
-                            "comment": "Diggy diggy hole!"
+                            "comment": "Meillä Keuruussa mökki ollut jo kymmenen vuotta Marjatta naapuri hoitaa kukka maat ja perunat. Voin suositella."
+                        },
+                        {
+                            "name": "Jugu84",
+                            "date": "20.5.2015",
+                            "comment": "ihan kuule GOOGLETTAMALLA tuli vastaan tämä Aamunsarastuksen seura jos vaan osaisit näppäimistöä käyttää sen verran. Vaikuttaa ihan hauskalta ja juuri yhteisölliseltä ratkaisulta. Lapsiperheetkin mainittu."
+                        },
+                        {
+                            "name": "Peke68",
+                            "date": "20.5.2015",
+                            "comment": "EI OLE MITÄÄN ”MÖKKISEURAA”"
+                        },
+                        {
+                            "name": "Jugu84",
+                            "date": "20.5.2015",
+                            "comment": "niin lukee ihan siellä itse sivulla:DDD mitää vittua nyt"
+                        },
+                        {
+                            "name": "Tuonetar123",
+                            "date": "20.5.2015",
+                            "comment": "On kyllä ihana ja lempeä mökkiseura! Itse olen jo monta kesää viettänyt Vietävänjärvellä enkä vaihtaisi mihinkään! Isäntäkin tykkään kun kalamies on:)"
+                        },
+                        {
+                            "name": "Peke68",
+                            "date": "20.5.2015",
+                            "comment": "OLE OLE MIKÄÄN MÖKKISEURA VAAN PAHOLAISEN TAHTOA TOTEUTTAVA ROSVOJOUKKO"
+                        },
+                        {
+                            "name": "Jugu84",
+                            "date": "20.5.2015",
+                            "comment": "ei jumaa onks tää se pekan totuus pekka XDDD päällikkö"
+                        },
+                        {
+                            "name": "Mirjaliini",
+                            "date": "20.5.2015",
+                            "comment": "Pysytään asiallisessa keskustelussa sekä aiheessa kiitos maltti on valttia"
+                        },
+                        {
+                            "name": "Jugu84",
+                            "date": "20.5.2015",
+                            "comment": "https://pekkaperasalo.vercel.app/ XDDDD sieltä lukemaan"
                         }
                     ]
                 },
