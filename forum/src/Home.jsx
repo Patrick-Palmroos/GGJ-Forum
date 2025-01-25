@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import TopBar from "./TopBar";
 import "./Sections.css";
 import { useState, useEffect } from "react";
+import lock from "../public/lock.png";
 
 export default function Home() {
     const [isLogged, setIsLogged] = useState(null);
