@@ -1,0 +1,21 @@
+.section ul {
+    margin: 2px;
+}
+
+.section li {
+    background-color: rgb(114, 254, 75);
+    margin-top: 8px;
+    height: 40px;
+    width: 40%;
+    border-radius: 8px;
+    border-width: 2px;
+    border-color: rgb(0, 140, 54);
+    border-style: solid;
+    display: flex;
+    align-items: center;
+}
+
+.section li > a {
+    font-size: 1.4rem;
+    padding: 12px;
+}
