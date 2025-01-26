@@ -1,78 +1,104 @@
 {
-    "sections": [
+  "sections": [
+    {
+      "isOpen": true,
+      "users": ["Peke86", "Suviheila"],
+      "sectionName": "ulkoilu",
+      "posts": [
         {
-            "isOpen": true,
-            "users": ["Peke86", "Tintti"],
-            "sectionName": "ulkoilu",
-            "posts": [
-                {
-                    "id": 0,
-                    "date": "20.5.2015",
-                    "name": "Keijo Kyrvänsyrjä",
-                    "title": "menin ulos",
-                    "description": "Oli kylmä",
-                    "comments": [
-                        {
-                            "name": "Mauno Mammanpoika",
-                            "date": "21.5.2015",
-                            "comment": "Hoh"
-                        },
-                        {
-                            "name": "Jukka Juustoterska",
-                            "date": "20.5.2015",
-                            "comment": "Jep"
-                        }
-                    ]
-                },
-                {
-                    "id": 1,
-                    "date": "12.3.2015",
-                    "name": "Mauno Mammanpoika",
-                    "title": "kylmä",
-                    "description": "Talvi iskenyt",
-                    "comments": [
-                        {
-                            "name": "Mauno Mammanpoika",
-                            "date": "13.3.2015",
-                            "comment": "Nyt taas kylmä"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "date": "1.2.2015",
-                    "name": "Jukka Juustoterska",
-                    "title": "lehtiä ulkona lol",
-                    "description": "Siellä oli posti",
-                    "comments": []
-                }
-            ]
+          "id": 0,
+          "date": "20.5.2015",
+          "name": "Keijo Kyrvänsyrjä",
+          "title": "menin ulos",
+          "description": "Oli kylmä",
+          "comments": [
+            {
+              "name": "Mauno Mammanpoika",
+              "date": "21.5.2015",
+              "comment": "Hoh"
+            },
+            {
+              "name": "Jukka Juustoterska",
+              "date": "20.5.2015",
+              "comment": "Jep"
+            }
+          ]
         },
         {
-            "isOpen": false,
-            "users": ["Peke86", "Tintti"],
-            "sectionName": "Mökkeily",
-            "posts": [
-                {
-                    "id": 0,
-                    "date": "20.5.2015",
-                    "name": "Pekka Peräsalo",
-                    "title": "Paha mökki",
-                    "description": "I was in mökki when all of sudden, it was evil mökki",
-                    "comments": [
-                        {
-                            "name": "Mauno Mammanpoika",
-                            "date": "21.5.2015",
-                            "comment": "Hoh"
-                        },
-                        {
-                            "name": "Jukka Juustoterska",
-                            "date": "20.5.2015",
-                            "comment": "Jep"
-                        }
-                    ]
-                }
-            ]
+          "id": 1,
+          "date": "12.3.2015",
+          "name": "Mauno Mammanpoika",
+          "title": "kylmä",
+          "description": "Talvi iskenyt",
+          "comments": [
+            {
+              "name": "Mauno Mammanpoika",
+              "date": "13.3.2015",
+              "comment": "Nyt taas kylmä"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "date": "1.2.2015",
+          "name": "Jukka Juustoterska",
+          "title": "lehtiä ulkona lol",
+          "description": "Siellä oli posti",
+          "comments": []
         }
-    ]
+      ]
+    },
+    {
+      "isOpen": true,
+      "users": ["Peke86", "Tintti"],
+      "sectionName": "Mökkeily",
+      "posts": [
+        {
+          "id": 0,
+          "date": "20.5.2015",
+          "name": "Pekka Peräsalo",
+          "title": "Paha mökki",
+          "description": "I was in mökki when all of sudden, it was evil mökki",
+          "comments": [
+            {
+              "name": "Mauno Mammanpoika",
+              "date": "21.5.2015",
+              "comment": "Hoh"
+            },
+            {
+              "name": "Jukka Juustoterska",
+              "date": "20.5.2015",
+              "comment": "Jep"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isOpen": false,
+      "users": ["Suviheila"],
+      "sectionName": "Jännittävät harrastukset",
+      "posts": [
+        {
+          "id": 0,
+          "date": "20.5.2015",
+          "name": "Pekka Peräsalo",
+          "title": "Paha mökki",
+          "description": "I was in mökki when all of sudden, it was evil mökki",
+          "comments": [
+            {
+              "name": "Mauno Mammanpoika",
+              "date": "21.5.2015",
+              "comment": "Hoh"
+            },
+            {
+              "name": "Jukka Juustoterska",
+              "date": "20.5.2015",
+              "comment": "Jep"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
