@@ -26,7 +26,10 @@ export default function TopBar() {
     if (name.toLowerCase() === "peke68" && password === "pekka123") {
       localStorage.setItem("user", "Peke68");
       navigate(0);
-    } else if (name === "Suviheila" && password === "p35udHjj876vH") {
+    } else if (
+      name.toLowerCase() === "suviheila" &&
+      password === "p35udHjj876vH"
+    ) {
       localStorage.setItem("user", "Suviheila");
       navigate(0);
     } else {
