@@ -7,95 +7,102 @@
       "posts": [
         {
           "id": 0,
-          "date": "20.5.2015",
+          "date": "07.11.2024",
           "name": "Toukokettu",
           "title": "Suosituksia kivoista mökkiseuduista?:)",
           "description": "Heippa! Onkos täällä kenelläkään suositella mukavia mökkejä tai alueita mökkiä harkitsevalle? Kriteereinä olisi lapsiystävällisyys, hyvät uintimahdollisuudet ja tietenkin oma sauna! Plussaa läheiset mökkinaapurit ja yhteisöllinen tunnelma, esimerkiksi yhteinen perunamaa tai yhteisöpuutarha olisivat kiva lisä!",
           "comments": [
             {
+              "name": "Toukokettu",
+              "comment": "Heippa! Onkos täällä kenelläkään suositella mukavia mökkejä tai alueita mökkiä harkitsevalle? Kriteereinä olisi lapsiystävällisyys, hyvät uintimahdollisuudet ja tietenkin oma sauna! Plussaa läheiset mökkinaapurit ja yhteisöllinen tunnelma, esimerkiksi yhteinen perunamaa tai yhteisöpuutarha olisivat kiva lisä!"
+            },
+            {
               "name": "Jamppe",
-              "date": "20.5.2015",
-              "comment": "Älä ainakaa Satakunnasta hae"
+              "comment": "Älä ainakaa Satakunnasta hae."
             },
             {
               "name": "Mirjaliini",
-              "date": "20.5.2015",
               "comment": "Meillä Keuruussa mökki ollut jo kymmenen vuotta Marjatta naapuri hoitaa kukka maat ja perunat. Voin suositella."
             },
             {
               "name": "Jugu84",
-              "date": "20.5.2015",
               "comment": "ihan kuule GOOGLETTAMALLA tuli vastaan tämä Aamunsarastuksen seura jos vaan osaisit näppäimistöä käyttää sen verran. Vaikuttaa ihan hauskalta ja juuri yhteisölliseltä ratkaisulta. Lapsiperheetkin mainittu."
             },
             {
               "name": "Peke68",
-              "date": "20.5.2015",
               "comment": "EI OLE MITÄÄN ”MÖKKISEURAA”"
             },
             {
               "name": "Jugu84",
-              "date": "20.5.2015",
               "comment": "niin lukee ihan siellä itse sivulla:DDD mitää vittua nyt"
             },
             {
               "name": "Tuonetar123",
-              "date": "20.5.2015",
-              "comment": "On kyllä ihana ja lempeä mökkiseura! Itse olen jo monta kesää viettänyt Vietävänjärvellä enkä vaihtaisi mihinkään! Isäntäkin tykkään kun kalamies on:)"
+              "comment": "On kyllä ihana ja lempeä mökkiseura! Itse olen jo monta kesää viettänyt Vietävänjärvellä enkä vaihtaisi mihinkään! Isäntäkin tykkää kun kalamies on:)"
             },
             {
               "name": "Peke68",
-              "date": "20.5.2015",
               "comment": "OLE OLE MIKÄÄN MÖKKISEURA VAAN PAHOLAISEN TAHTOA TOTEUTTAVA ROSVOJOUKKO"
             },
             {
               "name": "Jugu84",
-              "date": "20.5.2015",
               "comment": "ei jumaa onks tää se pekan totuus pekka XDDD päällikkö"
             },
             {
               "name": "Mirjaliini",
-              "date": "20.5.2015",
               "comment": "Pysytään asiallisessa keskustelussa sekä aiheessa kiitos maltti on valttia"
             },
             {
               "name": "Jugu84",
-              "date": "20.5.2015",
               "comment": "https://pekkaperasalo.vercel.app/ XDDDD sieltä lukemaan"
             },
             {
               "name": "Peke68",
-              "date": "1.2.2015",
               "comment": "no ON SE KUMMA kun ei MAALAISJÄRKI pelitä nyky ihmisillä. KÄYTTÄKÄÄ AIVOJANNE KUN SELLAISET KERTA ON ANNETTU. ”MÖKKISEURA” KUSETTAA, ÄLKÄÄ LUOTTAKO MIKÄLI HENKENNE ON TEILLE MINKÄÄN ARVOINEN"
             },
             {
               "name": "Peke68",
-              "date": "1.2.2015",
-              "comment": "lisää aiheesta kotisivuillani pekan totuus https://pekkaperasalo.vercel.app/ kehotan jokaista mökkiä harkitsevaa lukamaan joka sanan TARKKAAN ja AJATUKSELLA ennen kuin tekee yhtään HÄTIKÖITYÄ PÄÄTÖSTÄ"
+              "comment": "lisää aiheesta kotisivuillani pekan totuus https://pekkaperasalo.vercel.app/ kehotan jokaista mökkiä harkitsevaa lukemaan joka sanan TARKKAAN ja AJATUKSELLA ennen kuin tekee yhtään HÄTIKÖITYÄ PÄÄTÖSTÄ"
             },
             {
               "name": "Mippenator",
-              "date": "1.2.2015",
-              "comment": " @Peke68 Tuosta Vietävänjärven alueesta oli ihan paikkallislehteenkin kirjoitus joskus muinoin. En voi suositella. Oli muistaakseni jotain epämääräisiä kokkoja poltettu alueella."
+              "comment": "@Peke68 Tuosta Vietävänjärven alueesta oli ihan paikkallislehteenkin kirjoitus joskus muinoin. En voi suositella. Oli muistaakseni jotain epämääräisiä kokkoja poltettu siellä."
             },
             {
               "name": "Mirjaliini",
-              "date": "1.2.2015",
+              "comment": "PYSYTÄÄN AIHEESSA"
+            },
+            {
+              "name": "Peke68",
               "comment": "POLTTAVAT KYLLÄ VIELÄKIN. Joka kevät palaa ”nuohtakko”, niinkuin NE niitä kutsuvat. Eikä ole pelkkää puuainesta se, uskokaa pois."
             },
             {
               "name": "Mirjaliini",
-              "date": "1.2.2015",
-              "comment": "PYSYTÄÄN AIHEESSA"
+              "comment": "Naapuri polttaa ”nuohtakkoa” sisällä haju tulee keittiööni olen valittanut talo yhtiölle eivät ole puuttuneet."
+            },
+            {
+              "name": "Peke68",
+              "comment": "@Mirjaliini ei ole sellainen nuohtakko."
+            },
+            {
+              "name": "Peke68",
+              "comment": "ROVIOKSI niitä pitäisi nimittää. JOS ymmärrät mitä tarkoitan."
             },
             {
               "name": "Mippenator",
-              "date": "1.2.2015",
-              "comment": "@Peke68 niistä isäukkokin kertoi. Sanoi kans ettei ole ihan puhtaat jauhot pussissa niillä. Jotain kummia viritelmiä olivat myös metsiin kyhäilleet, omista tai muiden hiuksista ja jostain sellaisesta, mikäli legenda pitää paikkansa."
+              "comment": "@Peke68 niistä isäukkokin kertoi. Sanoi kans ettei ole ihan puhtaat jauhot pussissa niillä. Jotain kummia viritelmiä olivat myös metsiin kyhäilleet, omista tai muiden hiuksista ja jotain semmoista, mikäli legenda pitää paikkansa."
             },
             {
               "name": "Toukokettu",
-              "date": "1.2.2015",
-              "comment": "Kiitos vastauksista, nyt tiedän ainakin mistä en mökkiäni osta 🙂 ja vastedes pysytään aiheessa, kummaliset spekulaatiot voi ohjata omaan lankaansa tai vaikka ihan eri foorumille 🙂 kiitos!"
+              "comment": "Kiitos vastauksista, nyt tiedän ainakin mistä EN mökkiäni osta :) ja vastedes pysytään aiheessa, kummaliset spekulaatiot voi ohjata omaan lankaansa tai vaikka ihan eri foorumille :) kiitos!"
+            },
+            {
+              "name": "Peke68",
+              "comment": "@Mippenator EI TOTISESTI OLE PUHTAAT JAUHOT, KIRJAIMELLISESTI JAUHOISTA LISÄÄ MYÖEHMMIN"
+            },
+            {
+              "name": "Peke68",
+              "comment": "Teen aiheesta uuden pöstäyksen ja lisää voi myös lukea KOTISIVUILTANI pekan totuus https://pekkaperasalo.vercel.app/"
             }
           ]
         },
