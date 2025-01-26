@@ -23,8 +23,8 @@ export default function TopBar() {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    if (name === "Peke86" && password === "peke123") {
-      localStorage.setItem("user", "Peke86");
+    if (name === "Peke68" && password === "peke123") {
+      localStorage.setItem("user", "Peke68");
       navigate(0);
     } else if (name === "Suviheila" && password === "p35udHjj876vH") {
       localStorage.setItem("user", "Suviheila");
